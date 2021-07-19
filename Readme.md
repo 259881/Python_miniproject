@@ -15,3 +15,6 @@ Folder             | Description
 
 ## *Pylint Output*
 ![image](https://github.com/259881/Python_miniproject/blob/07be8832629ea827a36ac34db181a592f917d97f/3_Implementation/pylint%20output.jpg)
+
+## *PyTest Output*
+![image](https://github.com/259881/Python_miniproject/blob/94f8ed5b6009f062c8a98f075f7fb1a2d3b37716/3_Implementation/pytest%20output.jpg)
