@@ -135,11 +135,6 @@ The low level requirement includes knowledge about arduino uno, bluetooth module
 
 ![image](https://circuitdigest.com/sites/default/files/inlineimages/block%20diagram_1.PNG)
 
-https://github.com/259881/Python_miniproject/blob/401e40ec0aa4232b31fee9f31fb926d970340966/1_Requirements/SWOT.png
+# ***SWOT ANALYSIS***
+https://github.com/259881/Python_miniproject/blob/a767cebc4472f3fc2f3e44dd085ee27f782c36b9/1_Requirements/SWOT.png
 
-The high level requirement includes idea about raspberry pi and servo motor interface.
-
-![image](http://dwightreid.com/blog/wp-content/uploads/2015/03/Pan-tilt.jpg)
-
-# ***LOW LEVEL REQUIREMENTS***
-https://github.com/259881/Python_miniproject/blob/401e40ec0aa4232b31fee9f31fb926d970340966/1_Requirements/SWOT.png
