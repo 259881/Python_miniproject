@@ -12,3 +12,6 @@ Folder             | Description
 `2_Design`         | Documents specifying design details
 `3_Implementation` | All code and documentation
 `4_Test_plan`      | Documents with test plans and procedures
+
+## *Pylint Output*
+![image](https://github.com/259881/Python_miniproject/blob/07be8832629ea827a36ac34db181a592f917d97f/3_Implementation/pylint%20output.jpg)
