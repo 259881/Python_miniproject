@@ -136,5 +136,4 @@ The low level requirement includes knowledge about arduino uno, bluetooth module
 ![image](https://circuitdigest.com/sites/default/files/inlineimages/block%20diagram_1.PNG)
 
 # ***SWOT ANALYSIS***
-https://github.com/259881/Python_miniproject/blob/a767cebc4472f3fc2f3e44dd085ee27f782c36b9/1_Requirements/SWOT.png
-
+![image](https://github.com/259881/Python_miniproject/blob/a767cebc4472f3fc2f3e44dd085ee27f782c36b9/1_Requirements/SWOT.png)
